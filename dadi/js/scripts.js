@@ -6,7 +6,7 @@ if(player1 > computer ){
     alert('Hai vinto');
 }
 else if ( player1 < computer){
-    alert('Coglione di merda')
+    alert('Hai perso')
 }
 else{
     alert('Hai pareggiato')
